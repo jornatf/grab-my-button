@@ -92,7 +92,7 @@ const onJoinRoom = (board, socket) => {
 }
 
 /**
- * Leave user when disconnection and update users data
+ * Leave board and update users data
  * @param  {*} socket
  * @param  {...any} params 
  */
