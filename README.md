@@ -11,8 +11,8 @@ My first react game for Desktop. Can you grab my button? Play online with other 
 This game is little challenge for me to develop a mini-game with react in typescript that uses the Websocket for a connection between players in real time.
 
 ## In upcoming improvements
-✔️ Creation of rooms to play with friends<br>
-🔘 Ability to obtain a score and share it with other players
+[x] Creation of rooms to play with friends<br>
+[ ] Ability to obtain a score and share it with other players
 
 ## Credits
 
