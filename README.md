@@ -7,6 +7,21 @@ My first react game for Desktop. Can you grab my button? Play online with other 
 > ### 🎯 **Goal:**
 >Click on the button that is in perpetual movement. You can see the cursor of other players moving in real time.
 
+## Test locally
+To test locally, on have to run **Client Side** and **Server Side**.
+
+```bash
+# Terminal for Client Side
+$ npm install
+$ npm run dev
+```
+```bash
+# Terminal for Server Side
+$ cd server
+$ npm install
+$ npm run dev
+```
+
 ## Technical information
 This game is little challenge for me to develop a mini-game with react in typescript that uses the Websocket for a connection between players in real time.
 
