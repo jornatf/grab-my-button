@@ -8,7 +8,7 @@ My first react game for Desktop. Can you grab my button? Play online with other 
 >Click on the button that is in perpetual movement. You can see the cursor of other players moving in real time.
 
 ## Test locally
-To test locally, on have to run **Client Side** and **Server Side**.
+To test locally, you have to run **Client Side** and **Server Side**.
 
 ```bash
 # Terminal for Client Side
